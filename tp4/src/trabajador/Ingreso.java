@@ -12,6 +12,6 @@ public class Ingreso {
 	}
 	
 	public double getMontoPercibido() {
-		return montoPercibido;
+		return this.montoPercibido;
 	}
 }
