@@ -4,5 +4,5 @@
 /**
  * 
  */
-module tp5 {
+module tp2 {
 }
